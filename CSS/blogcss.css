@@ -1,0 +1,30 @@
+body {
+    border: 20px solid #bdc3c7;
+    width:60%;
+    font-family: Source+Sans+Pro:wght@200;
+    margin: 20px auto;
+    padding:20px;
+}
+
+#date {
+    color:#3498db;
+    text-transform:uppercase;
+    font-weight: bold;
+}
+
+p {
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+#first {
+    border-left: 4px solid #bdc3c7;
+    margin-left: 2em;
+    padding-left: 10px;
+}
+
+h2 {
+    color : #2c3e50;
+    margin-left: 10px ;
+    padding-left: 3.5%;
+}
