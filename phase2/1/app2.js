@@ -1,4 +1,4 @@
-/*
+/*  
 
 function doSomething(str){
     return str.charAt(0).toUpperCase() + str.slice(1);
@@ -132,7 +132,7 @@ window.setTimeout(function() {
     console.log("Quiting the app");
   }, 500);
 
-  */
+*/
 
 var tab = [1,2,3,4];
 
@@ -142,6 +142,8 @@ function printReverse(){
 }
 
 printReverse();
+
+
 
 
 
