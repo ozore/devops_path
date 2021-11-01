@@ -81,7 +81,7 @@ while ( count < 333){
     count++;
 }
 
-console.log("Print all numbers divisble by 5 and 3 between 5 and 50)
+console.log("Print all numbers divisble by 5 and 3 between 5 and 50")
 var count = 5 ;
 while ( count < 51){
     if ( count %5 === 0 && count %3 ===0  ){
